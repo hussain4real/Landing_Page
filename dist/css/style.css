@@ -243,6 +243,21 @@ img {
   background-color: #274;
 }
 
+/*copyright styling*/
+
+#copyright {
+  background-color: #555;
+  color: beige;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: -3rem;
+  margin-top: 3rem;
+}
+
+#copyright:hover {
+  background-color: darkolivegreen;
+}
+
 /*Utilities*/
 
 .btn {
